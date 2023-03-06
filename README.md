@@ -19,7 +19,7 @@ untuk media queriesnya belum sempat merubah silahkan dirubah sesuai kebutuhan
 selamat mencoba
 
 
-selamat mencoba
+
 
 Dukung saya ya
 
