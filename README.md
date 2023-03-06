@@ -1,8 +1,6 @@
 
 ![image](https://user-images.githubusercontent.com/3053485/223063572-2bac4245-f0c8-49a9-9089-886471313754.png)
 
-![image](https://user-images.githubusercontent.com/3053485/218922352-e212b566-0878-4cbb-8c1a-f5c8232c3c2e.png)
-
 
 
 # SPJ Kelompok Tani
