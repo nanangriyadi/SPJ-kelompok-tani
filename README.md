@@ -1,3 +1,35 @@
+
+
+![image](https://user-images.githubusercontent.com/3053485/218922352-e212b566-0878-4cbb-8c1a-f5c8232c3c2e.png)
+
+
+
+# pkks_with_admin
+cara penggunaan :
+1. buka terminal ketikan cp.env.example .env
+2. lalu buka phpmyadmin->database->database name-> slb5
+3. buka terminal php artisan key:generate
+4. buka terminal php artisan migrate
+5. buka terminal php artisan db:seed
+6. buka terminal php artisan serve
+
+alat yang dubutuhkan:
+1. composer
+2. xammp dengan php8++
+3. gitbash opsional bisa pakai terminal di windows 10/11
+
+username:
+admin@gmail.com
+pasword:
+admin12345
+
+selamat mencoba
+
+Dukung saya ya
+
+
+![image](https://user-images.githubusercontent.com/3053485/218619114-0bab7622-fb41-4008-bac5-34f8fdb35bfd.png)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
