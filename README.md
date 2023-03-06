@@ -14,6 +14,8 @@ alat yang dubutuhkan:
 2. xammp dengan php8++
 3. gitbash opsional bisa pakai terminal di windows 10/11
 
+untuk media queriesnya belum sempat merubah silahkan dirubah sesuai kebutuhan
+
 selamat mencoba
 
 
