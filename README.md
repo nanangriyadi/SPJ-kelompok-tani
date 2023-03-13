@@ -6,8 +6,9 @@
 # SPJ Kelompok Tani
 cara penggunaan :
 1. buka terminal ketikan cp.env.example .env
-2. buka terminal php artisan key:generate
-3. buka terminal php artisan serve
+2. buka terminal ketikan composer install
+3. buka terminal php artisan key:generate
+4. buka terminal php artisan serve
 
 alat yang dubutuhkan:
 1. composer
